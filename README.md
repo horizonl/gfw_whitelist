@@ -2,7 +2,7 @@
 
 The GFW whitelist of AutoProxy format.
 
-gfw_whitelist URL: [https://raw.githubusercontent.com/neko-dev/gfw_whitelist/master/gfw_whitelist.txt](https://raw.githubusercontent.com/neko-dev/gfw_whitelist/master/gfw_whitelist.txt)
+gfw_whitelist URL: [https://raw.githubusercontent.com/horizonl/gfw_whitelist/master/gfw_whitelist.txt](https://raw.githubusercontent.com/horizonl/gfw_whitelist/master/gfw_whitelist.txt)
 
 ## Usagage of gfw_whitelist
 
@@ -20,7 +20,7 @@ Create a Switch Profile, `Default` use the proxy profile, add a rule list(AutoPr
 
 `java -jar AutoProxy-Editor.jar` to add domains.
 
-[AutoProxy Rules](https://github.com/neko-dev/gfw_whitelist/blob/master/AutoProxy_Rules.md)
+[AutoProxy Rules](https://github.com/horizonl/gfw_whitelist/blob/master/AutoProxy_Rules.md)
 
 ```txt
 This tools can help you to edit AutoProxy file.
