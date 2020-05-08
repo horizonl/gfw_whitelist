@@ -550,7 +550,6 @@
 ||sinaapp.com
 ||sinaimg.cn
 ||sinajs.cn
-||since1989.org
 ||sm.ms
 ||smart2pay.com
 ||smartgslb.com
